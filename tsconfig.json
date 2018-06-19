@@ -15,6 +15,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "script-load-guard": [
+        "dist/script-load-guard"
+      ],
+      "script-load-guard/*": [
+        "dist/script-load-guard/*"
+      ]
+    }
   }
 }
