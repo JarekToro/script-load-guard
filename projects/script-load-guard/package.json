@@ -1,6 +1,12 @@
 {
   "name": "script-load-guard",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "keywords": ["Angular","Javascript","External Script","Route Guard"],
+  "author": "Jarek Toro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JarekToro/script-load-guard"
+  },
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
